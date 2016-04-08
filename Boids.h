@@ -59,7 +59,7 @@ private:
 void				InitialiseBoids(std::vector<Boids> &manyBoids);
 float				GetMagnitude(const sf::Vector2f &v);
 
-#define				MAX_BOIDS		1000
+#define				MAX_BOIDS		1500
 #define				MAX_AVOID		150.0f
 
 
